@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/juanmayoral/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+  <a href="https://instagram.com/mayoraljm3" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
  <a href="https://twitter.com/mayoraljm" target="blank"><img align="center"
@@ -36,13 +36,13 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"
+      alt="php" width="40" height="40" /> </a> <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"
+      alt="bash" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"
+      alt="kubernetes" width="40" height="40" /> </a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
